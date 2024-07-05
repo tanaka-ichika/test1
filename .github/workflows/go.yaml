@@ -15,4 +15,4 @@ jobs:
         go-version: '1.22'
 
     -name: Build
-      run: go buildf -v .
+      run: go build -v .
